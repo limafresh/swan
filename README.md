@@ -1,7 +1,7 @@
 # Лебедь 🦢
 Игра-антистресс про Лебедя, созданная в TurboWarp (мод языка программирования Scratch; turbowarp.org). Кликайте на Лебедя, пока яйцо не вылупится полностью.
 
-![Снимок экрана](https://github.com/l1mafresh/swan/blob/main/снимок_экрана.png)
+![Снимок экрана](https://raw.githubusercontent.com/limafresh/swan/main/снимок_экрана.png)
 
 ## Что для чего?
 HTML-файлы - чтобы запустить и играть, .sb3-файлы - для редактирования в TurboWarp.

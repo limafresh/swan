@@ -1,16 +1,17 @@
-# Лебедь 🦢
-Игра-антистресс про Лебедя, созданная в TurboWarp (мод языка программирования Scratch; turbowarp.org). Кликайте на Лебедя, пока яйцо не вылупится полностью.
+# Swan / Лебедь
 
-![Снимок экрана](https://raw.githubusercontent.com/limafresh/swan/main/снимок_экрана.png)
+![Static Badge](https://img.shields.io/badge/Mobile-friendly-purple)
+![Static Badge](https://img.shields.io/badge/License-MPL_version_2.0_only-purple)
 
-## Что для чего?
-HTML-файлы - чтобы запустить и играть, .sb3-файлы - для редактирования в TurboWarp.
+Clicker antistress game where you have to click on a swan until an egg is knocked out of it. Works online and offline, on any device and without installation (in your browser).
 
-## Что означают буквы a и b в названиях файлов?
-Они означают то, что есть несколько версий для разных размеров экрана. Попробуйте каждую и выберите подходящую.
+## Play
+### Online
+[Click to launch Swan online.](https://limafresh.github.io/swan/swan.html)
+### Offline
+Download the `swan.html` file and you can run it in a browser on any device without the Internet and additional files.
 
-## Лицензия 
-Лицензировано под [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). В HTML-файлах есть части под другими лицензиями, их можно посмотреть, открыв HTML-файл в текстовом редакторе.
+![Screenshot](https://raw.githubusercontent.com/limafresh/swan/main/screenshot.png)
 
-## Играйте в Лебедя где угодно!
-А ещё он занимает мало места на устройстве.
+## Features
++ Click on the palette to change the color of the swan.

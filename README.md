@@ -15,3 +15,6 @@ Download the `swan.html` file and you can run it in a browser on any device with
 
 ## Features
 + Click on the palette to change the color of the swan.
+
+## For developers
+Linter: [HTMLHint](https://htmlhint.com/)

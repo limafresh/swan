@@ -1,7 +1,6 @@
 # Swan / Лебедь
 
 ![Static Badge](https://img.shields.io/badge/Mobile-friendly-purple)
-![Static Badge](https://img.shields.io/badge/License-MPL_version_2.0_only-purple)
 
 Clicker antistress game where you have to click on a swan until an egg is knocked out of it. Works online and offline, on any device and without installation (in your browser).
 

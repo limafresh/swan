@@ -317,6 +317,7 @@
 			const eyes2 = document.getElementById('eyes2');
 			const restartBtn = document.getElementById('restartBtn');
 			const countdownBg = document.getElementById('countdownBg');
+			const palette = document.getElementById('palette');
 			const cluck = document.getElementById('cluck');
 			const restartSound = document.getElementById('restartSound');
 			const swans = ['swan1', 'swan2', 'swan3', 'swan4', 'swan5', 'swan6', 'swan7'];
@@ -334,6 +335,7 @@
 				await wait(1000);
 				countdownBg.style.visibility = 'hidden';
 				countdown.style.visibility = 'hidden';
+				palette.style.visibility = 'visible';
 				egg.style.visibility = 'visible';
 				currentTop = 47;
 				egg.style.top = '47%';
@@ -362,6 +364,7 @@
 					egg.style.visibility = 'hidden';
 					await wait(1000);
 					restartBtn.style.visibility = 'visible';
+					palette.style.visibility = 'hidden';
 				};
 			};
 			async function showRedEyes() {

@@ -274,14 +274,14 @@
 				cluck.currentTime = 0;
 				cluck.play();
 			};
-			swan.addEventListener('click', () => {
-				if (document.elementFromPoint(event.clientX, event.clientY).tagName === 'path') {
+			swan.addEventListener('click', (e) => {
+				if (document.elementFromPoint(e.clientX, e.clientY).tagName === 'path') {
 					swanClick();
 				};
 			});
 			document.querySelectorAll('.redEyes').forEach(element => {
-				element.addEventListener('click', () => {
-					if (document.elementFromPoint(event.clientX, event.clientY).tagName === 'path') {
+				element.addEventListener('click', (e) => {
+					if (document.elementFromPoint(e.clientX, e.clientY).tagName === 'path') {
 						swanClick();
 					};
 				});
